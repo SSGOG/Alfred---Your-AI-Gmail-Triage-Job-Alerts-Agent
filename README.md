@@ -7,7 +7,7 @@ Alfred is a privacy-conscious Gmail agent that sorts unread mail where it alread
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Gmail API](https://img.shields.io/badge/Gmail-API-EA4335?logo=gmail&logoColor=white)](https://developers.google.com/gmail/api)
 [![NVIDIA NIM](https://img.shields.io/badge/AI-NVIDIA%20NIM-76B900?logo=nvidia&logoColor=white)](https://build.nvidia.com/)
-[![Use](https://img.shields.io/badge/Use-Hackathon%20prototype-7C3AED)](#)
+
 
 ## What Alfred does
 
