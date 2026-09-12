@@ -2,6 +2,8 @@
 
 > **Read one briefing instead of fifty emails.**
 
+*Alfred lives in Gmail, triages what matters, surfaces career opportunities, and turns inbox overload into one actionable briefing.*
+
 Alfred is a privacy-conscious Gmail agent that sorts unread mail where it already lives: in Gmail. It labels what needs attention, highlights job opportunities, and delivers a beautifully structured briefing twice a day.
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
@@ -167,12 +169,3 @@ scripts/install-schedule.ps1
 tests/test_security.py   Safety, priority, job-label, and digest tests
 .env.example             Safe configuration template
 ```
-
-## Built for
-
-**Agents, Everywhere: Bots, Channels, & More**  
-AI Tinkerers × OpenAI Hackathon — Gmail / Email category
-
-**One-line pitch:**  
-*Alfred lives in Gmail, triages what matters, surfaces career opportunities, and turns inbox overload into one actionable briefing.*
-
